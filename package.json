@@ -1,0 +1,19 @@
+{
+  "name": "com.myapp.www",
+  "version": "1.0.1",
+  "description": "This is a basic node app which says \"Hello World\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noblesalt",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-logger": "0.0.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  }
+}
